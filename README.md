@@ -2,6 +2,8 @@
 
 Economics student at Drexel University's LeBow College of Business, with minors in Finance and Accounting. Fellow in the Howley Finance Academy.
 
+Open to internship and co-op opportunities in investment banking, private markets and asset management. Connect with me on [LinkedIn](https://www.linkedin.com/in/max-drachler).
+
 ## Currently
 - Investment banking intern on the TMT team at Young America Capital
 - Intern at KAST, working on client sourcing
@@ -23,3 +25,6 @@ Economics student at Drexel University's LeBow College of Business, with minors 
 
 ## Tools
 Excel financial modeling (Power Query, Python in Excel), Python (pandas, matplotlib)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/max-drachler)
