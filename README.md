@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Max
 
-<!--
-**mhd-bit-spec/mhd-bit-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics student at Drexel University's LeBow College of Business, with minors in Finance and Accounting. Fellow in the Howley Finance Academy.
 
-Here are some ideas to get you started:
+## Currently
+- Investment banking intern on the TMT team at Young America Capital
+- Intern at KAST, working on client sourcing
+- Building financial modeling and valuation skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Investment banking and private markets
+- Equity research and stock pitches
+- Fintech and digital payments
+
+## What you'll find here
+- Financial models, valuation work, and data analysis projects
+- Programming coursework and practice
